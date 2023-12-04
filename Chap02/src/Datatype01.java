@@ -12,7 +12,7 @@ public class Datatype01 {
 		System.out.println(b);
 		System.out.println(l);
 		
-		 
+		
 	}
 
 }
